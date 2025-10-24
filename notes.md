@@ -53,3 +53,17 @@ ti ciami - nazywasz się?
 per favore - (nie por favor jak w hiszpańskim)
 
 
+---
+## Odmiana czasowników
+##### zakończone na -are
+
+amare
+Należy wstawić odpowiednią końcówkę
+`o, i, a, iamo, ate, ano`
+| | | |
+|-|-|-|
+| io amaro - ja kocham | | noi amiamo - my kochamy | 
+| tu ami - ty kochasz | | voi amate - wy kochacie | 
+| lui ama / lei ama - on/ona koach | | loro amano - oni kochają | 
+
+
